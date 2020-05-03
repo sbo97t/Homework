@@ -1,12 +1,15 @@
 # Wealth Management and Distributed Ledger Technology
+
 ## Overview and Origin
-    Symbiont is a New York City developer of a blockchain platform named Assembly.  Founded in 2015 
+    
+Symbiont is a New York City developer of a blockchain platform named Assembly.  Founded in 2015 
 by Mark Smith, Adam Krellenstein, Evan Wagner, and Robby Dermody, 
 Symbiont included initial investors Duncan Niederauer, former CEO of NYSE 
 and co-head of Citadel Mark Anderson.  The company raised $20 Million in January 2019 in a Series B round.
  
 ## Business Activities
-    Symbiont uses Assembly as a blockchain platform and creates smart contracts written in its 
+    
+Symbiont uses Assembly as a blockchain platform and creates smart contracts written in its 
 proprietary language SymPL.  The use of Assembly allows customers to validate transactions 
 without the need of a third party. Vanguard is using Assembly to manage prices on $1.3 trillion worth of funds.  
 Since 2012 Vanguard has used the Center for Research in Security Prices (CRSP) to manage pricing 
@@ -17,7 +20,8 @@ With Assembly, this process can be completed by 10:00am.  This strategy enables 
 buy and sell trades before its competitors can execute their own trades. 
  
 ## Landscape
-    Over the past 6 years, many players have emerged utilizing blockchain technology in the financial sector.  
+
+Over the past 6 years, many players have emerged utilizing blockchain technology in the financial sector.  
 Digital Asset is a developer of blockchain software that is built upon the open-source language DAML, 
 which it created. DA has recently partnered with the Australian Securities Exchange to provide a replacement 
 to ASX’s current equities clearing and settlement system CHESS.  Digital Asset will also be 
@@ -27,14 +31,16 @@ a compound annual growth (CAGR) of 73.2%.  Banking is currently the largest inve
 but growth is underway in the fields of healthcare, supply chain management and many others.  
 
 ## Results
-    Although Symbiont, Vangaurd, and CRSP are the only organizations with access to the index data currently, 
+
+Although Symbiont, Vangaurd, and CRSP are the only organizations with access to the index data currently, 
 other asset managers have shown interest in the technology and have operated test runs of the software.  
 Lowering costs through the platform clearly provides efficiencies for Vanguard in maintaining index pricing. 
 Future deployment options will be structured to include administrators, investors and new index providers.  
 Vanguard has been impressed with Symbiont and has expanded the concept of blockchain to its FX trades.
   
  ## Recommendations
-    The current path of Symbiont is in the privatized financial sector. The future may be with governmental organizations.  
+
+The current path of Symbiont is in the privatized financial sector. The future may be with governmental organizations.  
 In particular, Sweden is planning to introduce its own digital currency by 2021 with plans for a cashless society by 2023.  
 Some Nordic countries are heavily invested in digital forms of payment and this trend may continue to spread throughout the world.  
 It would be in the best interest of Symbiont to engage other nations and begin the circle of trust towards their blockchain platforms.
